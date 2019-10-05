@@ -11,7 +11,7 @@ function App() {
           Edit <code>src/App.js</code> and do a great job!
         </p>
         <p>
-        	Hi, Madeline!
+        	DIY Big Data FTW!
         </p>
         <a
           className="App-link"
